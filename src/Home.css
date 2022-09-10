@@ -1,0 +1,41 @@
+img {
+  height: 400px;
+}
+
+.row1 {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 40px;
+  padding: 30px;
+}
+.banner {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.banner-content {
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+  padding: 60px;
+  width: 1200px;
+}
+
+.main-arrow {
+  display: flex;
+  justify-content: center;
+}
+
+.banner-content > h1 {
+  color: white;
+}
+.banner-content > h1 > span {
+  color: #ffbf0c;
+}
+
+.banner-content > p {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}

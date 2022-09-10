@@ -1,0 +1,25 @@
+.footer-content {
+  display: flex;
+
+  margin: 70px;
+  justify-content: space-around;
+}
+.footer-img > img {
+  height: 30px;
+}
+
+.footer-img > p {
+  color: #7f7f7f;
+  font-size: 13px;
+}
+
+.footer-end > p {
+  color: #7f7f7f;
+  font-size: 13px;
+}
+
+.icons {
+  color: #ffab00;
+  display: flex;
+  justify-content: space-evenly;
+}
